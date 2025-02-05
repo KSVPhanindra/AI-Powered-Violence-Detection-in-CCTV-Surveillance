@@ -19,26 +19,6 @@ This project focuses on detecting violent activities in CCTV surveillance footag
 ## 📂 Dataset  
 The SmartCity CCTV Violence Detection Dataset (SCVD) from Kaggle serves as the primary dataset, containing labeled video clips for violent and non-violent actions.  
 
-## ⚙ Installation & Setup  
-1. Clone the repository:  
-   bash
-   git clone https://github.com/yourusername/violence-detection.git
-   cd violence-detection
-   
-2. Install dependencies:  
-   bash
-   pip install -r requirements.txt
-   
-3. Download and preprocess the dataset.  
-4. Train the model:  
-   bash
-   python train.py
-   
-5. Run inference on sample videos:  
-   bash
-   python detect.py --video sample.mp4
-   
-
 ## 📈 Model Performance  
 - *Accuracy*: [Add your accuracy score]  
 - *Precision & Recall*: [Add metrics after evaluation]  
